@@ -1,0 +1,13 @@
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.exe
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.deps.json
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.runtimeconfig.json
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.runtimeconfig.dev.json
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.dll
+C:\Users\jacly\source\repos\Capstone Project\bin\Debug\netcoreapp3.1\Capstone Project.pdb
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.csprojAssemblyReference.cache
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.AssemblyInfoInputs.cache
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.AssemblyInfo.cs
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.csproj.CoreCompileInputs.cache
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.dll
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.pdb
+C:\Users\jacly\source\repos\Capstone Project\obj\Debug\netcoreapp3.1\Capstone Project.genruntimeconfig.cache
